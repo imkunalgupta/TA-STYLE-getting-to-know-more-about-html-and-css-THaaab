@@ -1,0 +1,22 @@
+.top{
+    text-align: center
+}
+.btn{
+    background-color: paleturquoise;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: maroon;
+    font-size: xxx-large;
+}
+nav{
+    font-size: larger;
+    margin-block-start: 10px;
+    margin-block: 10px;
+    margin-right: 20px;
+}
+h2{
+    color: maroon;
+}
